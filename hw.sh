@@ -1,2 +1,2 @@
 #!/bin/sh
-      echo "Die Motherfucker"
+      echo "Hello World"
